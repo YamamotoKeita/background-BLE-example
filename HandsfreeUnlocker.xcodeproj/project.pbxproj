@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		23FEF35025349A7A006C60AF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FEF34F25349A7A006C60AF /* AppDelegate.swift */; };
-		23FEF35225349A7A006C60AF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FEF35125349A7A006C60AF /* SceneDelegate.swift */; };
 		23FEF35425349A7A006C60AF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23FEF35325349A7A006C60AF /* ViewController.swift */; };
 		23FEF35725349A7A006C60AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23FEF35525349A7A006C60AF /* Main.storyboard */; };
 		23FEF35925349A7C006C60AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23FEF35825349A7C006C60AF /* Assets.xcassets */; };
@@ -20,7 +19,6 @@
 /* Begin PBXFileReference section */
 		23FEF34C25349A7A006C60AF /* HandsfreeUnlocker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HandsfreeUnlocker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23FEF34F25349A7A006C60AF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		23FEF35125349A7A006C60AF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		23FEF35325349A7A006C60AF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		23FEF35625349A7A006C60AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		23FEF35825349A7C006C60AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -61,7 +59,6 @@
 			isa = PBXGroup;
 			children = (
 				23FEF34F25349A7A006C60AF /* AppDelegate.swift */,
-				23FEF35125349A7A006C60AF /* SceneDelegate.swift */,
 				23FEF35325349A7A006C60AF /* ViewController.swift */,
 				23FEF35525349A7A006C60AF /* Main.storyboard */,
 				23FEF35825349A7C006C60AF /* Assets.xcassets */,
@@ -147,7 +144,6 @@
 				23FEF36625349AF6006C60AF /* HandsfreeUnlocker.swift in Sources */,
 				23FEF35025349A7A006C60AF /* AppDelegate.swift in Sources */,
 				23FEF36925349B15006C60AF /* LocalNotification.swift in Sources */,
-				23FEF35225349A7A006C60AF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
